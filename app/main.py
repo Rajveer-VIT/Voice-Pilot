@@ -59,5 +59,4 @@ async def speak(text: str):
 
 if __name__ == "__main__":
     main()
-    # To test speech output, uncomment below:
-    # asyncio.run(speak("This is a sample voice. Hi Piyush"))
+   
